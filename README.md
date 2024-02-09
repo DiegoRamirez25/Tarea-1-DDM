@@ -4,7 +4,7 @@
 
 ### Video 1: Tarea 1 conversor de bases 
 
-- https://www.youtube.com/watch?v=jcR36fsi2Tc
+- https://youtu.be/cl6srgEM79Q
   
 
 ## Videos Proyectos
